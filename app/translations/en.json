@@ -1,0 +1,11 @@
+{
+	"tune_list": "Tune List",
+	"tune_search": "Tunes Search",
+	"tunes_search_default": "Search for a tunes gallery by entering it's name in the search box",
+	"get_tunes_details": "Get details of Tunes",
+	"search_query": "Search query: {artistName}",
+	"matching_tunes": "Total number of matching Tunes: {resultCount}",
+	"something_went_wrong": "Sorry. Something went wrong! Please try again in sometime.",
+	"stories": "Go to Storybook",
+	"wednesday_solutions": "Wednesday Solutions"
+}
